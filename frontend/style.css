@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #D7F5F5;
+    padding: 100px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 27%;
+    background-color: white;
+    padding: 30px;
+}
+
+.username-name {
+    padding-left: 5px;
+}
+
+.card-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: #1F9BEF;
+    text-decoration: none;
+  }
+
+.profile-container {
+    display: flex;
+}
+
+.username {
+    margin-top: 0;
+}
+
+.name {
+    margin-bottom: 0;
+}
+
+.profile-photo {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.twitter-logo {
+    width: 50px;
+}
+
+.heart {
+    width: 25px;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.likes-container{
+    display: flex;
+}
+
+.heart {
+    color: pink;
+}
+
+.likes {
+    padding-left: 5px;
+}
+
+.second-section-title {
+    text-align: center;
+}
+
+.second-section-paragraph {
+    text-align: center;
+}
+
+
+.second-card {
+    width: 28%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FBF8F2;
+    border: 2px solid #FFBE54;
+    color: #2b2839;
+    border-radius: 8px;
+}
+
+.check {
+    width: 20px;
+}
+
+.month {
+    margin-bottom: 0;
+    color: #A5A4A2;
+    font-weight: 600;
+}
+
+.mo {
+    color: #A5A4A2;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.btn-logo {
+    color: white;
+    text-decoration: none;
+    padding-right: 8px;
+}
+
+.price {
+   margin-top: 0;
+}
+
+.border {
+    border: 2px solid #D8D7D6;
+}
+
+.check-container {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    padding-left: 8px;
+    color: #A5A4A2;
+    font-weight: 600;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.second-section {
+    padding: 100px;
+}
+
+.check {
+    border: 2px solid #2DD8AF;
+    border-radius: 50%;
+    background-color: #2DD8AF;
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.button {
+    width: 100%;
+    padding: 15px 30px;
+    background-color: #09ABEE;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
